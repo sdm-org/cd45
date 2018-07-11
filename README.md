@@ -10,7 +10,7 @@ This project is driven using [Maven][mvn].
 [mvn]: https://maven.apache.org/
 
 ### Run locally
-
+ss
 You can run the service locally using the fsssollowing from the command:
 
 ```
